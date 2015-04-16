@@ -3,14 +3,30 @@ using System.Collections;
 
 public class Element : MonoBehaviour 
 {
-	public bool number ;
+	public bool numberS, numberE ;
+
 	public Sprite[] numberTextures;
 	void Start () {
-		//number = Random.value < .20;
+		numberS = Random.value < .30;
+		numberE = Random.value < .20;
+	
+			if (numberS) 
+		{
 
-			//loadTexture (2);
-			//loadTexture (0);
-			loadTexture (3);
+			loadTexture (0);
+		}
+			else if ( numberE)
+		{
+			loadTexture(1);
+
+		}
+		else
+		{
+
+			loadTexture(3);
+		}
+
+	
 
 	}
 	public void loadTexture(int counter){
