@@ -3,28 +3,25 @@ using System.Collections;
 
 public class Element : MonoBehaviour 
 {
-	public bool numberS, numberE ;
+	public bool numberFive, numberSix, numberSeven;
 
 	public Sprite[] numberTextures;
 	void Start () {
-		numberS = Random.value < .30;
-		numberE = Random.value < .20;
+		numberFive = Random.value < .30;
+		numberSix = Random.value < .20;
+		numberSeven = Random.value < .20;
 	
-			if (numberS) 
-		{
+		if (numberFive) {
 
 			loadTexture (0);
-		}
-			else if ( numberE)
-		{
-			loadTexture(1);
+		} else if (numberSix) {
+			loadTexture (1);
 
-		}
-		else
-		{
+		} else if (numberSeven) {
 
-			loadTexture(3);
-		}
+			loadTexture (2);
+		} else
+			loadTexture (3);
 
 	
 
