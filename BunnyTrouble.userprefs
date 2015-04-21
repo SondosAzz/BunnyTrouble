@@ -1,8 +1,32 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/enemyMovement.cs">
     <Files>
       <File FileName="Assets/_Scripts/enemyMovement.cs" Line="6" Column="26" />
+=======
+<<<<<<< Updated upstream
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/Health.cs">
+    <Files>
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/EnemyAttack.cs" Line="9" Column="20" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/gui.cs" Line="28" Column="3" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/enemyManager.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/enemyMovement.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/combatGUI.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/Health.cs" Line="26" Column="23" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/playerMovement.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/LessonAssets/Lesson4/Assets/The Game/Scripts/RifleWeapon.cs" Line="30" Column="6" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/Element.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/Element.cs" Line="13" Column="31" />
+      <File FileName="Assets/_Scripts/bunnyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/enemyMovement.cs" Line="5" Column="1" />
+>>>>>>> Stashed changes
+>>>>>>> Grid
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

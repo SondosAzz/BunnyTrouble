@@ -1,7 +1,11 @@
 fileFormatVersion: 2
 guid: a50f9769051c74191a512a6d17ca6923
 folderAsset: yes
+<<<<<<< HEAD
 timeCreated: 1429121530
+=======
+timeCreated: 1429176533
+>>>>>>> Grid
 licenseType: Free
 DefaultImporter:
   userData: 

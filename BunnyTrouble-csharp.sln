@@ -17,9 +17,13 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 									GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																																	GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> Grid
+=======
+																																																GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> Grid
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
